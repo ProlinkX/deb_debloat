@@ -1,4 +1,4 @@
-# <span style="color:blue">**deb_debloat.sh**</span> 
+# <span style="color:blue">**Debian 12 Debloat**</span> 
 
 <br>
 
@@ -27,8 +27,8 @@ This script is designed to debloat Debian-based systems, freeing up system resou
 
 ## Usage
 
-1. **Clone the repository:** `git clone https://github.com/ProlinkX/deb_debloat.sh`
-2. **Navigate to the directory:** `cd deb_debloat.sh`
+1. **Clone the repository:** `git clone https://github.com/ProlinkX/deb_debloat`
+2. **Navigate to the directory:** `cd deb_debloat`
 3. **Make the script executable:** `chmod +x deb_debloat.sh`
 4. **Run the script with sudo:** `sudo ./deb_debloat.sh`
 
